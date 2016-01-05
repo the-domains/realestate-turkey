@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Are you looking for a professional service to invest in properties in Turkey?
-datePublished: '2016-01-05T06:00:35.428Z'
-dateModified: '2016-01-05T06:00:11.770Z'
+datePublished: '2016-01-05T07:55:44.683Z'
+dateModified: '2016-01-05T06:37:47.804Z'
 title: 'Realestate in Turkey '
 author: []
+sourcePath: _posts/2016-01-05-realestate-in-turkey.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-realestate-in-turkey.md
-published: true
 url: realestate-in-turkey/index.html
 _type: Article
 
