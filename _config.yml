@@ -1,7 +1,7 @@
 name: Realestate Turkey
 favicon: null
 layout_spectrum: 0.9005832942202687
-typography_spectrum: 0.3591363946907222
+typography_spectrum: 0.50772
 title: Your Professional Realestate Broker in Turkey
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#202f58'
+    - '#a7afb6'
+    - '#ac8929'
+    - '#08090b'
   brandStrength: 0.6492968539241701
   lightness: 0.612704805098474
   saturation: 0.07400895631872118
