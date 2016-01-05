@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Realestate Turkey]]></title>
-        <description><![CDATA[Realestate Turkey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Your Professional Realestate Broker in Turkey]]></title>
+        <description><![CDATA[Your Professional Realestate Broker in Turkey]]></description>
+        <link>http://www.omuroztas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 06:00:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 07:55:54 GMT</lastBuildDate>
+        <atom:link href="http://www.omuroztas.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Realestate in Turkey ]]></title>
             <description><![CDATA[<article><h1>Realestate in Turkey </h1><p>Are you looking for the right investment in Turkey?</p></article>]]></description>
-            <link>undefinedrealestate-in-turkey/index.html</link>
+            <link>http://www.omuroztas.net/realestate-in-turkey/index.html</link>
             <guid isPermaLink="false">dccbfa35-9422-4a23-85cb-e6c4bc4e263d</guid>
-            <pubDate>Tue, 05 Jan 2016 06:00:35 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 07:55:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
